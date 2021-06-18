@@ -1,1 +1,2 @@
-# Data-Visualization-Dashboard-
+# Data-Visualization-Dashboard
+Dashboard is based on the concept of demonstrating US Domestic Airline Flights Performance and Yearly average flight delay statistics for a given year ( 2005 to 2020). Project created using Plotly's Python graphing library (makes interactive, publication-quality graphs) and Dash. Dash is the most downloaded, trusted Python framework for building ML & data science web apps.
